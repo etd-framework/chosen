@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/chosen",
+  "description": "Shim repository for Chosen",
+  "homepage": "http://harvesthq.github.io/chosen",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/jquery": "~1.0"
+  }
+}
