@@ -4,6 +4,6 @@
   "homepage": "http://harvesthq.github.io/chosen",
   "license": "MIT",
   "require": {
-    "etdsolutions/jquery": "~1.0"
+    "etdsolutions/jquery": ">=1.4.0"
   }
 }
